@@ -4,8 +4,7 @@
 
 # RocketCoffee
 
-O RocketCoffee é um projeto de aprendizado feito através da Maratona Explorer 3 da RocketSeat, onde desenvolvemos um cardapio digital que pode ser acessado pelo Qr Code abaixo:
-
+O RocketCoffee é um projeto de aprendizado feito através da Maratona Explorer 3 da RocketSeat, onde desenvolvemos um cardapio digital que pode ser acessado pelo Qr Code abaixo.   O desafio era fazer uma copia com todos os atributos da arte proposta no figma.
 
 ## QrCode
 
