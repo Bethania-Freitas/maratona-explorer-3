@@ -10,6 +10,10 @@ O RocketCoffee é um projeto de aprendizado feito através da Maratona Explorer 
 
 ![App Screenshot](https://github.com/Bethania-Freitas/maratona-explorer-3/blob/main/frame%20(1).png?raw=true)
 
+## QrCode
+
+![App Screenshot](./print/printscreen.png)
+
 
 ## Stack utilizada
 
